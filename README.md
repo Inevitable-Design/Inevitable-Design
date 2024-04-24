@@ -39,12 +39,17 @@ export const ekansh = {
 <div align="center">
 
 ### <img src="./static/rocket_bio.png" width="30"> Github Stats
-
-![Inevitable-Design's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inevitable-Design&theme=tokyonight&hide_border=true)
 <br />
-![Inevitable-Design's Stats](https://github-readme-stats.vercel.app/api?username=Inevitable-Design&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![Inevitable-Design's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inevitable-Design&theme=tokyonight&show_icons=true&hide_border=true&layout=donut)
-
+<table align = center>
+  <tr>
+<td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inevitable-Design&theme=tokyonight&hide_border=true" />
+</td>
+<td>
+    <img src="https://github-readme-stats.vercel.app/api?username=Inevitable-Design&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+</td>
+  </tr>
+</table>
 
 ###### Nothing crazy. just a random counter for vibes
 ![Visitor Count](https://profile-counter.glitch.me/Inevitable-Design/count.svg)
