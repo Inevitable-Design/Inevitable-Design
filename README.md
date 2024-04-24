@@ -1,8 +1,6 @@
-<p align="center" >
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
+<div align="center">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Ekansh)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&random=false&width=600&lines=Full-stack+Web+Developer+with+Bold+Ideas+;Always+Learning!+%F0%9F%99%8C;SvelteKit+Enjoyer;btw+I+use+Arch)](https://git.io/typing-svg)
 
 ### <img src="./static/youLookLonelygif.gif">
@@ -38,22 +36,16 @@ export const ekansh = {
 
 ```
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
-
+<div align="center">
 
 ### <img src="./static/rocket_bio.png" width="30"> Github Stats
 
 ![Inevitable-Design's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Inevitable-Design&theme=tokyonight&hide_border=true)
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; gap: 1rem;">
-
+<br />
 ![Inevitable-Design's Stats](https://github-readme-stats.vercel.app/api?username=Inevitable-Design&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
 ![Inevitable-Design's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inevitable-Design&theme=tokyonight&show_icons=true&hide_border=true&layout=donut)
 
-</div>
 
 ###### Nothing crazy. just a random counter for vibes
 ![Visitor Count](https://profile-counter.glitch.me/Inevitable-Design/count.svg)
 </div>
-</P>
