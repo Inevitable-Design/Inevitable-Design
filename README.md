@@ -3,11 +3,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Ekansh)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&random=false&width=600&lines=Full-stack+Web+Developer+with+Bold+Ideas+;Always+Learning!+%F0%9F%99%8C;SvelteKit+Enjoyer;btw+I+use+Arch)](https://git.io/typing-svg)
 
-### <img src="./static/youLookLonelygif.gif">
-Your codebase looks empty, I can fix that.
-
 ### <img src="./static/rocket_bio.png" width="30"> A little something about me...
 </div>
+
 
 ```typescript
 export const ekansh = {
@@ -35,6 +33,13 @@ export const ekansh = {
 };
 
 ```
+
+<div align="center">
+
+### <img src="./static/youLookLonelygif.gif">
+Your codebase looks empty, I can fix that.
+
+</div>
 
 <div align="center">
 
