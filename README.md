@@ -1,3 +1,4 @@
+<p align="center" >
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Ekansh)](https://git.io/typing-svg)
@@ -55,3 +56,4 @@ export const ekansh = {
 ###### Nothing crazy. just a random counter for vibes
 ![Visitor Count](https://profile-counter.glitch.me/Inevitable-Design/count.svg)
 </div>
+</P>
