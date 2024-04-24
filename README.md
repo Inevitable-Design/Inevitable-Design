@@ -55,7 +55,7 @@ Your codebase looks empty, I can fix that.
 
 <div align="center">
 
-### <img src="./static/rocket_bio.png" width="30"> Github Stats
+### <img src="./static/bullsEye.png" width="30"> Github Stats
 <br />
 <table align = center>
   <tr>
