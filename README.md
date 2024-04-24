@@ -9,7 +9,9 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/ivd-ekansh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./static/logos/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ekansh_dev"><img width="32px" alt="X" title="X" src="./static/logos/x.png"/></a>
+  <a href="https://twitter.com/ekansh_dev"><img width="32px" alt="X/Twitter" title="X" src="./static/logos/x.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="mailto:s.ekansh2712@gmail.com"><img width="32px" alt="Mail" title="X" src="./static/logos/mail.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
