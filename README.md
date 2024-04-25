@@ -15,6 +15,14 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
+OR
+</div>
+
+```bash
+~$ npx ekansh # CLI to get started ASAP
+```
+<div align="center">
+  
 ### <img src="./static/rocket_bio.png" width="30"> A little something about me...
 </div>
 
