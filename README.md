@@ -19,7 +19,7 @@ OR
 </div>
 
 ```bash
-~$ npx ekansh # OR pnpx ekansh - A light CLI to get started ASAP
+~$ npx ekansh # OR pnpx ekansh@latest - A light CLI to get started ASAP
 ```
 <div align="center">
   
