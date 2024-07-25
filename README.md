@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://www.discordapp.com/users/s.ekansh"><img width="32px" alt="Youtube" title="Youtube" src="./static/logos/discord.png"/></a>
+  <a href="https://www.discordapp.com/users/s.ekansh"><img width="32px" alt="Youtube" title="Discord" src="./static/logos/discord.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/ivd-ekansh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./static/logos/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
