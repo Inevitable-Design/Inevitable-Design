@@ -30,7 +30,7 @@ OR
 ```typescript
 export const ekansh = {
     pronouns: "He" | "Him",
-    code: ["🚀 JavaScript", "🔥 TypeScript", "🐍 Python", "🐹 Go", "⚙️ Rust", "🎯 Dart"],
+    code: ["🚀 JavaScript", "🔥 TypeScript", "🐍 Python", "⚙️ Rust", "🎯 Dart"],
     bio: "🌟 Self-Taught FullStack Sorcerer from India",
     askMeAbout: ["💻 Web Dev", "🔧 Tech", "🛠️ DevOps", "🔙 Backend"],
     technologies: {
