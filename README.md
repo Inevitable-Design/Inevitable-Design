@@ -53,6 +53,13 @@ export const ekansh = {
 };
 
 ```
+<div align="center">
+  <h3>Fun Fact</h3>
+  <audio controls="controls">
+    <source type="audio/WAV" src="/static/audio/morse.wav"></source>
+    <p>Your browser does not support the audio element.</p>
+  </audio>
+</div>
 
 <div align="center">
 
