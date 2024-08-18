@@ -27,6 +27,10 @@ OR
 </div>
 
 
+
+
+
+
 ```typescript
 export const ekansh = {
     pronouns: "He" | "Him",
@@ -49,20 +53,16 @@ export const ekansh = {
     },
     architecture: ["🌐 Serverless Architecture", "🚀 Progressive Web Applications", "🌈 Single Page Applications"],
     currentFocus: "🎯 Elevating my DevOps Wizardry",
-    funFact: ""
 };
 
 ```
-<div align="center">
-  <h3>Fun Fact</h3>
-  <audio controls="controls">
-    <source type="audio/WAV" src="/static/audio/morse.wav"></source>
-    <p>Your browser does not support the audio element.</p>
-  </audio>
+
+<div align="center">  
+  <a href="https://github.com/user-attachments/assets/68931a05-4229-4dad-90de-1471ea90d45d" target="_blank">Fun Fact</a>
 </div>
 
 <div align="center">
-
+  
 ### <img src="./static/youLookLonelygif.gif">
 Your codebase looks empty, I can fix that.
 
