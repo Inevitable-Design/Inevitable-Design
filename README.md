@@ -58,7 +58,7 @@ export const ekansh = {
 ```
 
 <div align="center">  
-  <a href="https://github.com/user-attachments/assets/68931a05-4229-4dad-90de-1471ea90d45d" target="_blank">Fun Fact</a>
+  <a href="/static/audio/morse.wav" target="_blank">Fun Fact</a>
 </div>
 
 <div align="center">
