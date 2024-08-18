@@ -48,7 +48,7 @@ export const ekansh = {
         misc: ["🔥 Firebase", "⚡ Socket.IO", "🤖 Selenium"]
     },
     architecture: ["🌐 Serverless Architecture", "🚀 Progressive Web Applications", "🌈 Single Page Applications"],
-    currentFocus: "🎯 Elevating my Backend Wizardry",
+    currentFocus: "🎯 Elevating my DevOps Wizardry",
     funFact: ""
 };
 
