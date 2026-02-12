@@ -1,88 +1,39 @@
 <div align="center">
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=36&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&repeat=false&random=false&width=600&lines=Ekansh)](https://github.com/Inevitable-Design)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3700&pause=600&color=70a5fd&center=true&vCenter=true&random=false&width=600&lines=Full-stack+Web+Developer+with+Bold+Ideas+;Always+Learning!+%F0%9F%99%8C;SvelteKit+Enjoyer;btw+I+use+Arch)](https://github.com/Inevitable-Design)
+# Hey, I'm Ekansh Sharma 👋
 
+**Backend Engineer | Fullstack Developer | Cybersecurity Enthusiast**
 
-<p align="center">
-  <a href="https://www.discordapp.com/users/s.ekansh"><img width="32px" alt="Youtube" title="Discord" src="./static/logos/discord.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ivd-ekansh/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./static/logos/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/ekansh_dev"><img width="32px" alt="X/Twitter" title="X" src="./static/logos/x.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:s.ekansh2712@gmail.com"><img width="32px" alt="Mail" title="X" src="./static/logos/mail.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+📍 New Delhi, India
 
-OR
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivd-ekansh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ekansh_dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.ekansh2712@gmail.com)
+
 </div>
 
-```bash
-~$ npx ekansh # OR pnpx ekansh@latest - A light CLI to get started ASAP
-```
-<div align="center">
-  
-### <img src="./static/rocket_bio.png" width="30"> A little something about me...
-</div>
+---
 
+### 🛠️ Tech Stack
 
+| Category | Technologies |
+|:--|:--|
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | SvelteKit, Astro, Next.js, React.js, Svelte, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Nest.js, Elysia.js, FastAPI, Redis |
+| **Blockchain** | Ethereum, Web3, Hyperliquid |
+| **DevOps & Tools** | Docker, CI/CD, Linux |
 
+---
 
-
-
-```typescript
-export const ekansh = {
-    pronouns: "He" | "Him",
-    code: ["🚀 JavaScript", "🔥 TypeScript", "🐍 Python", "⚙️ Rust", "🎯 Dart"],
-    bio: "🌟 Self-Taught FullStack Sorcerer from India",
-    askMeAbout: ["💻 Web Dev", "🔧 Tech", "🛠️ DevOps", "🔙 Backend"],
-    technologies: {
-        backEnd: {
-            js: ["Node.js", "Fastify", "Express"],
-            python: ["Flask", "FastAPI", "Django"],
-            go: ["Gin", "GORM"],
-            rust: ["Rocket"]
-        },
-        frontEnd: {
-            js: ["React", "Next.js", "Svelte", "SvelteKit"],
-        },
-        devOps: ["☁️ GCP", "☁️ AWS", "🐳 Docker", "🔒 Nginx"],
-        databases: ["📦 MongoDB", "🔍 MySQL", "📂 SQLite", "🐘 PostgreSQL"],
-        misc: ["🔥 Firebase", "⚡ Socket.IO", "🤖 Selenium"]
-    },
-    architecture: ["🌐 Serverless Architecture", "🚀 Progressive Web Applications", "🌈 Single Page Applications"],
-    currentFocus: "🎯 Elevating my DevOps Wizardry",
-};
-
-```
-
-<div align="center">  
-  <a href="/static/audio/morse.wav" target="_blank">Fun Fact</a>
-</div>
+### 📊 GitHub Stats
 
 <div align="center">
-  
-### <img src="./static/youLookLonelygif.gif">
-Your codebase looks empty, I can fix that.
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inevitable-Design&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+---
+
 <div align="center">
-
-### <img src="./static/bullsEye.png" width="30"> Github Stats
-<br />
-<table align = center>
-  <tr>
-<td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inevitable-Design&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-    <img src="https://github-readme-stats.vercel.app/api?username=Inevitable-Design&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-</td>
-  </tr>
-</table>
-
-###### Nothing crazy. just a random counter for vibes
-![Visitor Count](https://profile-counter.glitch.me/Inevitable-Design/count.svg)
+  <i>Building secure, scalable, and performant systems</i>
 </div>
