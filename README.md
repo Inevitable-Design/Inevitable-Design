@@ -2,9 +2,10 @@
 
 # Hey, I'm Ekansh Sharma 👋
 
-**Backend Engineer | Fullstack Developer | Cybersecurity Enthusiast**
+### Backend Engineer • Fullstack Developer  
+📍 New Delhi, India  
 
-📍 New Delhi, India
+Building secure, scalable, and high-performance systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ivd-ekansh)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ekansh_dev)
@@ -14,19 +15,35 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-| Category | Technologies |
-|:--|:--|
-| **Languages** | JavaScript, TypeScript, Python |
-| **Frontend** | SvelteKit, Astro, Next.js, React.js, Svelte, Tailwind CSS |
-| **Backend** | Node.js, Express.js, Nest.js, Elysia.js, FastAPI, Redis |
-| **Blockchain** | Ethereum, Web3, Hyperliquid |
-| **DevOps & Tools** | Docker, CI/CD, Linux |
+- 🔧 I specialize in backend architecture and scalable APIs  
+- 🌐 Experienced across fullstack systems from UI to infrastructure  
+- 🔐 Strong interest in cybersecurity and blockchain technologies  
+- ⚡ Focused on performance, clean architecture, and reliability  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
+
+**Languages**  
+JavaScript • TypeScript • Python  
+
+**Frontend**  
+SvelteKit • Astro • Next.js • React • Svelte • Tailwind CSS  
+
+**Backend**  
+Node.js • Express • NestJS • Elysia • FastAPI • Redis  
+
+**Blockchain**  
+Ethereum • Web3 • Hyperliquid  
+
+**DevOps & Tools**  
+Docker • CI/CD • Linux  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inevitable-Design&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -35,5 +52,5 @@
 ---
 
 <div align="center">
-  <i>Building secure, scalable, and performant systems</i>
+  <sub>Open to collaborating on backend-heavy, security-focused, and Web3 projects.</sub>
 </div>
