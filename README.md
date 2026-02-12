@@ -52,5 +52,5 @@ Docker • CI/CD • Linux
 ---
 
 <div align="center">
-  <sub>Open to collaborating on backend-heavy, security-focused, and Web3 projects.</sub>
+  <sub>Probably building stuff rn</sub>
 </div>
